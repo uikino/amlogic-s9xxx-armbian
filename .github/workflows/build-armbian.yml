@@ -24,7 +24,7 @@ on:
       set_desktop:
         description: "Build Desktop: no / gnome / xfce, etc."
         required: false
-        default: "no"
+        default: "xfce"
       armbian_soc:
         description: "Set Amlogic SoC."
         required: false
